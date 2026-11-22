@@ -1,0 +1,172 @@
+[
+  {
+    "id": "s-pythagorean",
+    "name": "毕达哥拉斯学派",
+    "en": "Pythagoreanism",
+    "period": "前 6—前 4 世纪",
+    "region": "南意大利·克罗顿",
+    "brief": "以数为万物本原，认为宇宙秩序即数的比例关系，音乐的和声、天体的运行与人体的匀称同属一个数学结构。美因此是客观的、可计算的和谐，这一纲领经柏拉图与维特鲁威一直传到文艺复兴。",
+    "tenets": ["数是万物的本原", "美是和谐与比例", "音乐净化灵魂"],
+    "figures": ["p-pythagoras", "p-philolaus"]
+  },
+  {
+    "id": "s-platonism",
+    "name": "柏拉图主义",
+    "en": "Platonism",
+    "period": "前 4 世纪起",
+    "region": "雅典",
+    "brief": "以理念世界为唯一真实，感性事物只是分有或模仿。美本身（to kalon）是最高理念之一，个别美物因分有它而美；艺术作为对模仿的模仿，在认知等级中居于末位。",
+    "tenets": ["美本身独立于美物", "艺术是模仿的模仿", "爱欲使人上升至美"],
+    "figures": ["p-plato", "p-ficino"]
+  },
+  {
+    "id": "s-neoplatonism",
+    "name": "新柏拉图主义",
+    "en": "Neoplatonism",
+    "period": "3—6 世纪",
+    "region": "罗马·雅典·亚历山大里亚",
+    "brief": "以「太一」为万物本源，万物由流溢而生，又循美的阶梯回归。美被理解为形式对质料的赋予，光成为神性显现的隐喻，其图式经伪狄奥尼修斯进入基督教美学。",
+    "tenets": ["太一超越存在与美", "美是形式照亮质料", "万物由流溢而回归"],
+    "figures": ["p-plotinus", "p-pseudo-dionysius", "p-ficino"]
+  },
+  {
+    "id": "s-scholastic",
+    "name": "经院哲学美学",
+    "en": "Scholastic Aesthetics",
+    "period": "12—14 世纪",
+    "region": "西欧·巴黎",
+    "brief": "以亚里士多德哲学重述基督教信仰，把美规定为完整、比例与明亮三要素，并区分美与善：善涉及欲求，美止于认识与静观。艺术被看作制作（facere）的德性，而非神秘灵感。",
+    "tenets": ["美在完整、比例、明亮", "美与善有别：美止于认识", "艺术是制作而非灵感"],
+    "figures": ["p-aquinas", "p-ulrich-of-strasbourg", "p-pseudo-dionysius"]
+  },
+  {
+    "id": "s-renaissance-humanism",
+    "name": "文艺复兴人文主义",
+    "en": "Renaissance Humanism",
+    "period": "14—16 世纪",
+    "region": "意大利",
+    "brief": "以人的尊严、才能与感性经验为中心，重新发现古代文本与古代艺术。透视、解剖与比例被当作知识，艺术家由工匠升为「设计」者，美被理解为自然秩序与人的创造力的交汇。",
+    "tenets": ["人是万物的尺度", "艺术以数学认识自然", "模仿古人以超越自然"],
+    "figures": ["p-alberti", "p-leonardo", "p-vasari", "p-pico", "p-castiglione"]
+  },
+  {
+    "id": "s-neoclassicism",
+    "name": "新古典主义",
+    "en": "Neoclassicism",
+    "period": "17 世纪后期—18 世纪",
+    "region": "法国",
+    "brief": "以理性与「自然」为普遍准则，主张艺术须遵从三一律、合式（bienséance）与体裁等级。美被理解为对普遍人性的规范化再现，天才亦须受规则约束，古今之争由此爆发。",
+    "tenets": ["模仿自然即模仿普遍人性", "规则先于天才", "合式高于表现"],
+    "figures": ["p-boileau", "p-racine", "p-winckelmann"]
+  },
+  {
+    "id": "s-british-empiricism",
+    "name": "英国经验主义美学",
+    "en": "British Empiricist Aesthetics",
+    "period": "18 世纪",
+    "region": "英国",
+    "brief": "把美学问题转为趣味与感受的心理问题：美不在物而在知觉者的快感。内在感官、联想、同情与生理机制成为解释工具，为康德与 20 世纪心理学美学准备材料。",
+    "tenets": ["美源于主体的快感", "趣味可经训练而精细", "联想与同情解释审美"],
+    "figures": ["p-shaftesbury", "p-hutcheson", "p-hume", "p-burke", "p-locke"]
+  },
+  {
+    "id": "s-german-idealism",
+    "name": "德国古典美学",
+    "en": "German Classical Aesthetics",
+    "period": "1790—1835",
+    "region": "德国",
+    "brief": "以先验哲学与辩证法为工具，把审美当作沟通自然与自由、感性与理性的枢纽。康德立自律，席勒立教养，谢林以艺术为哲学的官能，黑格尔以艺术为绝对精神的一环。",
+    "tenets": ["审美具有自律性", "艺术承载真理", "美学是哲学体系的一环"],
+    "figures": ["p-kant", "p-schiller", "p-schelling", "p-hegel"]
+  },
+  {
+    "id": "s-romanticism",
+    "name": "浪漫主义",
+    "en": "Romanticism",
+    "period": "1798—1850",
+    "region": "德国·英国·法国",
+    "brief": "以无限渴慕（Sehnsucht）、反讽与想象力对抗规则与模仿。艺术被视为个性的表现与通向无限的器官，断片、民间诗与器乐获得前所未有的地位，美学由此转向表现论。",
+    "tenets": ["艺术表现无限与自我", "反讽消解固定形式", "想象高于规则"],
+    "figures": ["p-friedrich-schlegel", "p-novalis", "p-herder", "p-wagner", "p-heine"]
+  },
+  {
+    "id": "s-realism",
+    "name": "现实主义",
+    "en": "Realism",
+    "period": "1830—1880",
+    "region": "法国·俄国",
+    "brief": "主张艺术应直面当代社会，以观察与典型化代替理想化。美不再由永恒理念衡量，而由真实、社会意义与历史趋势衡量；俄国革命民主主义美学把它推向伦理与政治。",
+    "tenets": ["艺术应再现当代现实", "典型高于个案", "美是生活"],
+    "figures": ["p-courbet", "p-balzac", "p-chernyshevsky", "p-belinsky", "p-dobrolyubov"]
+  },
+  {
+    "id": "s-aestheticism",
+    "name": "唯美主义",
+    "en": "Aestheticism",
+    "period": "1830 年代—1890 年代",
+    "region": "法国·英国",
+    "brief": "以「为艺术而艺术」切断艺术对道德与真理的从属关系，主张形式与感觉本身就是目的。生活亦被要求按艺术来塑造，因此唯美主义既是艺术纲领，也是一种生活伦理。",
+    "tenets": ["为艺术而艺术", "形式即目的", "生活应模仿艺术"],
+    "figures": ["p-gautier", "p-wilde", "p-pater"]
+  },
+  {
+    "id": "s-formalism",
+    "name": "形式主义",
+    "en": "Formalism",
+    "period": "1910 年代—1950 年代",
+    "region": "英国·俄国·美国",
+    "brief": "把艺术性归于形式关系而非内容：线条色彩的组合、文学的手法与陌生化、绘画的媒介纯粹性。它使「如何」取代「为何」成为批评的核心问题，也促成现代主义的自律叙事。",
+    "tenets": ["艺术性在于形式关系", "媒介划定艺术边界", "陌生化更新感知"],
+    "figures": ["p-bell", "p-fry", "p-greenberg", "p-hanslick", "p-shklovsky"]
+  },
+  {
+    "id": "s-phenomenology",
+    "name": "现象学美学",
+    "en": "Phenomenological Aesthetics",
+    "period": "1910 年代—1960 年代",
+    "region": "德国·波兰·法国",
+    "brief": "以意向性分析审美对象的存在方式：作品不是物理物，而是在阅读与感知中被构成的层次结构。海德格尔把作品接入真理问题，梅洛-庞蒂则以身体知觉重述绘画。",
+    "tenets": ["审美对象在意识中构成", "作品是层次性的图式", "身体先于主客二分"],
+    "figures": ["p-husserl", "p-ingarden", "p-heidegger", "p-merleau-ponty"]
+  },
+  {
+    "id": "s-frankfurt",
+    "name": "法兰克福学派",
+    "en": "Frankfurt School",
+    "period": "1930 年代—1970 年代",
+    "region": "德国·美国",
+    "brief": "把马克思主义与精神分析结合，批判工具理性与文化工业。艺术被赋予否定性：它以形式上的不妥协抵抗同一性思维，真理内容只能通过破碎、丑与不协和而显现。",
+    "tenets": ["文化工业制造伪个性", "艺术以否定性保存真理", "工具理性导致物化"],
+    "figures": ["p-adorno", "p-horkheimer", "p-benjamin", "p-habermas"]
+  },
+  {
+    "id": "s-analytic",
+    "name": "分析美学",
+    "en": "Analytic Aesthetics",
+    "period": "1950 年代起",
+    "region": "英美",
+    "brief": "以语言分析处理美学问题：美能否定义、艺术能否被界定、意图与虚构何谓。它放弃体系建构，转而考察概念的实际用法，体制论与历史定义由此展开。",
+    "tenets": ["先问概念如何使用", "艺术不可本质定义", "意义依赖体制与历史"],
+    "figures": ["p-wittgenstein", "p-weitz", "p-danto", "p-goodman", "p-collingwood"]
+  },
+  {
+    "id": "s-structuralism",
+    "name": "结构主义与后结构主义",
+    "en": "Structuralism and Post-structuralism",
+    "period": "1950 年代—1980 年代",
+    "region": "法国",
+    "brief": "以语言系统优先于主体，把文化现象读作符号系统；后结构主义进而拆解系统的稳定性，以延异、互文与拟像取消固定意义。作者之死与「文本之外无物」由此而来。",
+    "tenets": ["意义由差异系统产生", "作者不占有意义", "文本之外无物"],
+    "figures": ["p-saussure", "p-barthes", "p-derrida", "p-baudrillard"]
+  },
+  {
+    "id": "s-environmental",
+    "name": "环境美学",
+    "en": "Environmental Aesthetics",
+    "period": "1960 年代起",
+    "region": "美国·加拿大",
+    "brief": "把鉴赏对象从艺术品扩展到自然与环境，追问非人造之物如何被审美地欣赏。科学认知主义、参与美学与生态美学各立一派，并重新挑起自然美与艺术美的等级之争。",
+    "tenets": ["自然是独立的美学对象", "鉴赏须有科学认知支撑", "参与优于静观"],
+    "figures": ["p-carlson", "p-berleant", "p-leopold"]
+  }
+]

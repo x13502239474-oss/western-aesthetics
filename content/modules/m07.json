@@ -1,0 +1,180 @@
+{
+  "id": "m07",
+  "no": 7,
+  "title": "20 世纪现代西方美学",
+  "latin": "Saeculum XX",
+  "period": "约 1900 — 1970",
+  "tagline": "两条大河：语言的转向与分析，存在的追问与现象学",
+  "intro": "20 世纪美学不再试图给出一个「美的定义」。英美一支转向语言分析：问「艺术」一词如何使用、「艺术」由谁认定；欧陆一支转向存在与经验：问艺术作品如何开启世界、审美经验如何完成一个经验。加上心理学、社会学与技术媒介的介入，美学在这一百年里被彻底重划了版图。",
+  "lessons": [
+    {
+      "title": "现代美学的转折",
+      "subtitle": "思辨美学解体后的三条出路",
+      "summary": "19 世纪末的「科学美学」与心理学转向使传统形而上学美学失去垄断。20 世纪美学由此分出三条路：语言分析、现象学—存在论、社会批判。",
+      "points": [
+        "实验美学与「自下而上」的方法主张",
+        "「美的本质」问题的失效与替代方案",
+        "分析传统与欧陆传统的分流",
+        "现代主义艺术实践对理论的倒逼"
+      ],
+      "concepts": ["c-experimental-aesthetics", "c-linguistic-turn", "c-modernism"],
+      "people": ["p-fechner", "p-wittgenstein", "p-husserl"]
+    },
+    {
+      "title": "克罗齐：直觉即表现",
+      "subtitle": "《美学》与「艺术不可分类」",
+      "summary": "克罗齐把心灵活动分为直觉、概念、经济、道德四级，艺术属于直觉；直觉即表现，表现即形式。由此推出艺术不可分类、不可翻译、不必有物质媒介。",
+      "points": [
+        "心灵四阶段与直觉的独立地位",
+        "「直觉即表现」的论证与「内在表现」概念",
+        "艺术不可分门别类的理由",
+        "该理论的困难：媒介与公共性的消失"
+      ],
+      "concepts": ["c-intuition", "c-expression", "c-idealism-croce"],
+      "people": ["p-croce", "p-collingwood"]
+    },
+    {
+      "title": "形式主义：有意味的形式",
+      "subtitle": "克莱夫·贝尔、罗杰·弗莱与视觉现代主义",
+      "summary": "贝尔提出「有意味的形式」，把审美情感归因于线条与色彩的组合关系；弗莱据此为后印象派辩护。形式主义由此成为现代主义艺术的主导批评语言。",
+      "points": [
+        "「有意味的形式」的原义与循环论证指责",
+        "弗莱的「视觉音乐」与对叙事性绘画的排斥",
+        "形式主义与同期俄国形式主义「陌生化」的区别",
+        "格林伯格对形式主义的后续改写"
+      ],
+      "concepts": ["c-significant-form", "c-formalism", "c-defamiliarization"],
+      "people": ["p-bell", "p-fry", "p-shklovsky", "p-greenberg"]
+    },
+    {
+      "title": "精神分析：无意识与艺术",
+      "subtitle": "弗洛伊德的升华说与荣格的原型",
+      "summary": "弗洛伊德把艺术看作被压抑欲望的升华与幻想的公开化，并以《列奥纳多》示范传记式分析；荣格则以集体无意识与原型解释艺术的普遍感染力。",
+      "points": [
+        "升华（sublimation）与「幻想」的机制",
+        "《达·芬奇童年的记忆》的方法与争议",
+        "荣格：原型、象征与「 visionary 」艺术",
+        "精神分析美学的贡献与限度"
+      ],
+      "concepts": ["c-sublimation", "c-unconscious", "c-archetype"],
+      "people": ["p-freud", "p-jung"]
+    },
+    {
+      "title": "现象学美学：作品的层次结构",
+      "subtitle": "胡塞尔的意向性、英伽登的文学本体论",
+      "summary": "现象学把审美对象从心理主义中解救出来：它不是物理物，也不是心理内容，而是意向性构成的对象。英伽登以此建立文学作品的四层次结构。",
+      "points": [
+        "意向性（Intentionalität）与「回到事情本身」",
+        "英伽登四层次：语音、意义、图式化观相、再现客体",
+        "「未定点」（Unbestimmtheitsstelle）与具体化",
+        "审美对象的存在方式：依附于物质又不等同于它"
+      ],
+      "concepts": ["c-intentionality", "c-strata", "c-indeterminacy", "c-concretization"],
+      "people": ["p-husserl", "p-ingarden"]
+    },
+    {
+      "title": "海德格尔（上）：物、器具与作品",
+      "subtitle": "《艺术作品的本源》第一部分",
+      "summary": "海德格尔从「物性」追问入手，指出器具介于物与作品之间；以凡·高的农鞋画为例，说明器具的「可靠性」如何只在作品中显露。",
+      "points": [
+        "追问「物性」的三条传统路径及其失败",
+        "器具分析：质料、形式与「可靠性」（Verlässlichkeit）",
+        "凡·高画作的解读与其中被质疑的经验细节",
+        "从器具到作品：真理的发生如何被引出"
+      ],
+      "concepts": ["c-thingness", "c-equipment", "c-reliability", "c-truth"],
+      "people": ["p-heidegger", "p-van-gogh"]
+    },
+    {
+      "title": "海德格尔（下）：世界与大地的争执",
+      "subtitle": "真理的自行置入作品",
+      "summary": "作品建立世界并制造大地，二者在争执中互相归属；真理作为「无蔽」在作品中被设置。艺术因此成为真理发生的一种方式，而非审美愉悦的对象。",
+      "points": [
+        "世界（Welt）与大地（Erde）的对立与相依",
+        "「争执」（Streit）的哲学含义",
+        "真理即无蔽（aletheia）与「置入」（Ins-Werk-Setzen）",
+        "对美学学科的批评：「美学」为何被视为遮蔽"
+      ],
+      "concepts": ["c-world-earth", "c-strife", "c-aletheia", "c-poiesis"],
+      "people": ["p-heidegger"]
+    },
+    {
+      "title": "萨特与梅洛-庞蒂：想象与身体",
+      "subtitle": "自由、目光与知觉的世界",
+      "summary": "萨特以「想象」的虚无化能力解释艺术作品的非现实性；梅洛-庞蒂则以身体—知觉为基础，主张绘画不是再现而是「世界的肉身」的显现。",
+      "points": [
+        "萨特：意象的非现实性与「召唤自由」的艺术",
+        "《恶心》与「存在」的审美经验结构",
+        "梅洛-庞蒂：身体图式、深度与「可见与不可见」",
+        "现象学美学对塞尚的解读及其影响"
+      ],
+      "concepts": ["c-imaginary", "c-flesh", "c-perception", "c-freedom"],
+      "people": ["p-sartre", "p-merleau-ponty", "p-cezanne"]
+    },
+    {
+      "title": "杜威：艺术即经验",
+      "subtitle": "打破「博物馆艺术」的围墙",
+      "summary": "杜威主张艺术不是少数对象的属性，而是经验达到「一个经验」时的完满形态。他因此把艺术从博物馆中解放出来，也让美学重新连接日常生活与民主。",
+      "points": [
+        "「一个经验」（an experience）的结构：积累与完成",
+        "手段与目的的连续性：对「审美孤岛」的批评",
+        "节奏、抵抗与「做与受」（doing and undergoing）",
+        "杜威对后来分析美学、实用主义美学的影响"
+      ],
+      "concepts": ["c-an-experience", "c-pragmatism", "c-continuity"],
+      "people": ["p-dewey", "p-shusterman"]
+    },
+    {
+      "title": "分析美学：艺术能被定义吗",
+      "subtitle": "从维特根斯坦到丹托的「艺术界」",
+      "summary": "分析美学用语言分析处理美学问题：先是怀疑「艺术」有定义，后来以「艺术界」「惯例」「艺术终结」等概念重建定义的可能性，直接回应了杜尚以来的前卫艺术。",
+      "points": [
+        "维特根斯坦「家族相似」对本质主义的打击",
+        "韦兹（Weitz）「艺术不可定义」论",
+        "丹托：艺术界（artworld）与「不可区分者」难题",
+        "古德曼《艺术语言》：何时为艺术"
+      ],
+      "concepts": ["c-family-resemblance", "c-artworld", "c-institutional-theory", "c-when-is-art"],
+      "people": ["p-wittgenstein", "p-weitz", "p-danto", "p-goodman"]
+    },
+    {
+      "title": "法兰克福学派：启蒙辩证法与文化工业",
+      "subtitle": "当娱乐成为统治的形式",
+      "summary": "霍克海默与阿多诺指出，启蒙理性退化为工具理性，文化工业以标准化与伪个性化制造顺从。美学由此承担了批判功能：真正的艺术必须抵抗一体化。",
+      "points": [
+        "工具理性批判与「启蒙的自我毁灭」",
+        "文化工业的机制：标准化、伪个性化、广告化",
+        "「娱乐就是净化」的尖锐论断",
+        "该理论对大众文化的过度概括及其修正"
+      ],
+      "concepts": ["c-culture-industry", "c-instrumental-reason", "c-mass-culture"],
+      "people": ["p-horkheimer", "p-adorno"]
+    },
+    {
+      "title": "阿多诺：否定性与艺术的真理内容",
+      "subtitle": "《美学理论》的核心命题",
+      "summary": "阿多诺主张艺术的双重性格：既是自律的幻象，又是社会批判的密码。现代艺术以碎片化与不和谐承担「否定」的职责，真理内容（Wahrheitsgehalt）在裂隙中显现。",
+      "points": [
+        "艺术的双重性格（Doppelcharakter）",
+        "不和谐、碎片与现代主义的正当性",
+        "「真理内容」与「意识形态」的辩证",
+        "「奥斯维辛之后写诗是野蛮的」的完整语境"
+      ],
+      "concepts": ["c-negative-dialectics", "c-truth-content", "c-double-character"],
+      "people": ["p-adorno", "p-beckett"]
+    },
+    {
+      "title": "本雅明：机械复制时代的艺术",
+      "subtitle": "灵韵的消逝与政治化的艺术",
+      "summary": "本雅明指出复制技术摧毁了作品的「灵韵」——由此时此地、仪式与传统构成的权威。这一变化既带来解放的可能，也被法西斯主义利用为政治审美化。",
+      "points": [
+        "灵韵（Aura）的定义：距离的独特显现",
+        "膜拜价值与展示价值的消长",
+        "摄影与电影的「视觉无意识」",
+        "「将美学政治化」与「将政治审美化」的对立"
+      ],
+      "concepts": ["c-aura", "c-cult-value", "c-exhibition-value", "c-optical-unconscious"],
+      "people": ["p-benjamin", "p-adorno"]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "m08",
+  "no": 8,
+  "title": "当代美学与新兴问题",
+  "latin": "Aetas Contemporanea",
+  "period": "约 1960 — 至今",
+  "tagline": "美学的地盘在扩张：文本、身体、环境、算法",
+  "intro": "当代美学的基本特征是「去中心」：美学不再只研究美的艺术，而是进入日常事物、环境、身体、媒介与算法。这一模块的每一讲都对应一个仍在争论中的问题，没有标准答案，但有清晰的立场地图。",
+  "lessons": [
+    {
+      "title": "结构与解构：文本之外的文本",
+      "subtitle": "从符号系统到「作者之死」",
+      "summary": "结构主义把文化视为符号系统，意义由差异与关系产生；后结构主义则指出系统内部的不稳定性，宣布意义的无限延异与作者的退场。",
+      "points": [
+        "索绪尔：能指／所指、差异与任意性",
+        "巴特：神话、二级符号系统与「作者之死」",
+        "德里达：延异（différance）与文本之外无物",
+        "该思潮对艺术阐释的影响与相对主义风险"
+      ],
+      "concepts": ["c-signifier", "c-myth", "c-death-of-author", "c-differance"],
+      "people": ["p-saussure", "p-barthes", "p-derrida"]
+    },
+    {
+      "title": "解释学美学：视域融合",
+      "subtitle": "伽达默尔《真理与方法》中的艺术经验",
+      "summary": "伽达默尔把理解看作此在的存在方式，艺术作品的意义在「视域融合」中不断生成。审美因此不是主观体验，而是参与真理事件。",
+      "points": [
+        "前见（Vorurteil）的合法性与「解释学循环」",
+        "视域融合（Horizontverschmelzung）的机制",
+        "「游戏」作为艺术作品的存在方式",
+        "解释学美学与解构主义的争论（伽达默尔—德里达之争）"
+      ],
+      "concepts": ["c-prejudice", "c-horizon-fusion", "c-hermeneutics", "c-play"],
+      "people": ["p-gadamer", "p-derrida", "p-heidegger"]
+    },
+    {
+      "title": "接受美学：读者如何生产意义",
+      "subtitle": "姚斯的「期待视野」与伊瑟尔的「隐含读者」",
+      "summary": "接受美学把文学史改写为接受史：作品的意义由读者的期待视野决定，文本的空白与未定点邀请读者参与具体化。",
+      "points": [
+        "期待视野（Erwartungshorizont）与视域变化",
+        "伊瑟尔：空白、否定与「隐含读者」",
+        "「文学史作为文学理论的挑战」的问题意识",
+        "接受美学与读者反应批评（费什）的差别"
+      ],
+      "concepts": ["c-horizon-of-expectation", "c-implied-reader", "c-blanks"],
+      "people": ["p-jauss", "p-isel", "p-fish"]
+    },
+    {
+      "title": "后现代主义美学",
+      "subtitle": "对元叙事的怀疑与「拼贴」的逻辑",
+      "summary": "利奥塔把后现代定义为对宏大叙事的怀疑，詹姆逊则从晚期资本主义的文化逻辑解释后现代的拼贴、怀旧与深度消失。",
+      "points": [
+        "利奥塔：元叙事、语言游戏与「崇高」的复活",
+        "詹姆逊：拼贴（pastiche）、戏仿与历史感的消退",
+        "鲍德里亚：拟像与超真实",
+        "后现代之后：metamodernism 与「新真诚」的提法"
+      ],
+      "concepts": ["c-metanarrative", "c-pastiche", "c-simulacrum", "c-postmodernism"],
+      "people": ["p-lyotard", "p-jameson", "p-baudrillard"]
+    },
+    {
+      "title": "女性主义美学：凝视与身体",
+      "subtitle": "谁在看，谁被看，谁被称作天才",
+      "summary": "女性主义美学揭露审美传统中的性别结构：从「男性凝视」到天才概念的性别化，再到身体经验与女性写作的美学重建。",
+      "points": [
+        "伯格《观看之道》与「男性凝视」的机制",
+        "诺克林：「为什么没有伟大的女性艺术家」",
+        "西苏的「女性写作」与伊利格瑞的「性别差异」",
+        "女性主义美学对「无利害性」的批评"
+      ],
+      "concepts": ["c-male-gaze", "c-gender", "c-ecriture-feminine"],
+      "people": ["p-berger", "p-nochlin", "p-cixous", "p-irigaray"]
+    },
+    {
+      "title": "环境美学：自然如何被鉴赏",
+      "subtitle": "从「如画」到「环境模式」",
+      "summary": "环境美学挑战黑格尔式的自然美贬抑，主张自然审美需要科学知识与参与式感知，而非把风景当作画来看。",
+      "points": [
+        "「如画」传统的视觉主义及其后果",
+        "卡尔森：自然审美中的「科学认知模式」",
+        "伯林特：参与式美学与「非对象化」感知",
+        "环境美学与生态批评、气候美学的延伸"
+      ],
+      "concepts": ["c-picturesque", "c-cognitive-model", "c-participatory-aesthetics"],
+      "people": ["p-carlson", "p-berleant", "p-leopold"]
+    },
+    {
+      "title": "日常生活美学：美学能否离开艺术",
+      "subtitle": "舒斯特曼、身体经验与「生活即艺术」",
+      "summary": "日常生活美学主张审美价值遍布饮食、衣着、城市与身体，艺术只是其中一小部分。它既扩展了美学的地盘，也带来「泛审美化」的隐忧。",
+      "points": [
+        "杜威传统的延伸与舒斯特曼的「身体美学」",
+        "「艺术的终结」与「生活的审美化」两条线",
+        "日常美学的规范性难题：如何评价生活品味",
+        "与大众文化研究的交叉"
+      ],
+      "concepts": ["c-somaesthetics", "c-everyday-aesthetics", "c-aestheticization"],
+      "people": ["p-shusterman", "p-dewey"]
+    },
+    {
+      "title": "视觉文化与媒介美学",
+      "subtitle": "图像如何组织我们的世界",
+      "summary": "视觉文化研究把「看」当作社会实践来研究，考察图像生产、流通与观看体制；媒介美学则追问技术条件如何塑造审美经验的形式。",
+      "points": [
+        "视觉性（visuality）与「观看的体制」",
+        "复制、屏幕与注意力经济",
+        "麦克卢汉「媒介即讯息」的美学含义",
+        "从摄影到短视频：形式的短化与感知的改造"
+      ],
+      "concepts": ["c-visuality", "c-medium", "c-attention-economy"],
+      "people": ["p-mcluhan", "p-mirzoeff", "p-crary"]
+    },
+    {
+      "title": "人工智能与艺术创作",
+      "subtitle": "作者性、原创性与「生成」的美学",
+      "summary": "生成式模型把创作变成对训练数据分布的采样，挑战了作者、原创与意图等概念。争论的焦点不是机器能否创作，而是我们如何界定创作。",
+      "points": [
+        "「作者已死」在算法时代的再语境化",
+        "原创性的两种理解：来源与新颖度",
+        "生成艺术的审美评价标准问题",
+        "版权、劳动与训练数据的伦理维度"
+      ],
+      "concepts": ["c-authorship", "c-originality", "c-generative-art", "c-intentionality"],
+      "people": ["p-boden", "p-manovich"]
+    },
+    {
+      "title": "关系美学与参与式艺术",
+      "subtitle": "艺术作为社会交往的形式",
+      "summary": "布尔里奥提出「关系美学」，把 1990 年代以来的参与式实践理解为以人际关系为材料；批评者则质疑其政治效果是否被高估。",
+      "points": [
+        "关系美学的基本命题与代表实践",
+        "「社会转向」与艺术的社会功能",
+        "批评：参与是否等于解放（毕晓普的质疑）",
+        "该转向对「艺术自律」框架的冲击"
+      ],
+      "concepts": ["c-relational-aesthetics", "c-social-turn", "c-participation"],
+      "people": ["p-bourriaud", "p-bishop"]
+    }
+  ]
+}

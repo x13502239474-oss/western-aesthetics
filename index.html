@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>西方美学思想史 · 数字学院</title>
+<meta name="description" content="从毕达哥拉斯到算法时代的西方美学通识课程：十个模块、九十六讲，整合朱立元主编《西方美学史》、朱光潜《西方美学史》与黑格尔《美学》的知识体系。">
+<meta name="theme-color" content="#fbf7ef">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f2ebdc'/%3E%3Cpath d='M6 24V10h4v14M14 24V6h4v18M22 24V13h4v11' stroke='%23a8823f' stroke-width='1.6' fill='none'/%3E%3Cpath d='M3 26h26' stroke='%23a8823f' stroke-width='1.6'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/classical.css">
+</head>
+<body>
+
+<!-- ============ SVG 资源 ============ -->
+<svg width="0" height="0" style="position:absolute;overflow:hidden" aria-hidden="true" focusable="false">
+  <defs>
+    <pattern id="pat-key" width="18" height="13" patternUnits="userSpaceOnUse">
+      <path d="M0 12 V1 H11 V9 H4.5 V4.5 H8" fill="none" stroke="#c2a05c" stroke-width="1.25" stroke-linecap="square"/>
+    </pattern>
+    <linearGradient id="g-gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9c48c"/><stop offset="1" stop-color="#a8823f"/>
+    </linearGradient>
+  </defs>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M15.5 15.5 21 21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M3 7h18M3 12h18M3 17h18" fill="none" stroke="currentColor" stroke-width="1.6"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.6 6.1.8-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6L3.3 9.9l6.1-.8z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+  <symbol id="i-star-fill" viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.6 6.1.8-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6L3.3 9.9l6.1-.8z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+  <symbol id="i-mark" viewBox="0 0 24 24"><path d="M6 3.5h12v17l-6-4.2-6 4.2z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+  <symbol id="i-mark-fill" viewBox="0 0 24 24"><path d="M6 3.5h12v17l-6-4.2-6 4.2z" fill="currentColor"/></symbol>
+  <symbol id="i-left" viewBox="0 0 24 24"><path d="M14 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+  <symbol id="i-right" viewBox="0 0 24 24"><path d="M10 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 4.5h6a2 2 0 012 2v13a2 2 0 00-2-2H4zM20 4.5h-6a2 2 0 00-2 2v13a2 2 0 012-2h6z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></symbol>
+  <symbol id="i-zoom" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10.5 7.5v6M7.5 10.5h6" stroke="currentColor" stroke-width="1.4"/></symbol>
+</svg>
+
+<!-- ============ 顶栏 ============ -->
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="#/" aria-label="回到首页">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+        <path d="M6 24V10h4v14M14 24V6h4v18M22 24V13h4v11" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M3 26h26M4 4h24" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+      <span class="brand-txt">
+        <span class="brand-t">西方美学思想史</span>
+        <span class="brand-s">Historia Aestheticae Occidentalis</span>
+      </span>
+    </a>
+    <nav class="topnav" id="topnav">
+      <a href="#/course" data-nav="course">课程</a>
+      <a href="#/timeline" data-nav="timeline">时间轴</a>
+      <a href="#/readings" data-nav="readings">原著</a>
+      <a href="#/artworks" data-nav="artworks">赏析</a>
+      <a href="#/concepts" data-nav="concepts">概念</a>
+      <a href="#/people" data-nav="people">人物</a>
+      <a href="#/shelf" data-nav="shelf">书签</a>
+    </nav>
+    <button class="icon-btn" id="btnSearch" aria-label="全站搜索" title="搜索（/）">
+      <svg width="19" height="19"><use href="#i-search"/></svg>
+    </button>
+    <button class="icon-btn nav-toggle" id="btnMenu" aria-label="展开导航">
+      <svg width="20" height="20"><use href="#i-menu"/></svg>
+    </button>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<!-- ============ 页脚 ============ -->
+<footer class="footer">
+  <div class="wrap footer-in">
+    <div>
+      <div class="brand-t">西方美学思想史</div>
+      <p>以朱立元主编《西方美学史》（高等教育出版社，2018 年第 2 版）、朱光潜《西方美学史》（人民文学出版社）与黑格尔《美学》（汉译世界学术名著丛书）为理论依据整合编写的自学课程。黑格尔引文逐字核自《美学》汉译电子文本，其余原典引文只取有把握的通行译法并标注篇目章节，不标页码。</p>
+    </div>
+    <nav>
+      <a href="#/course">完整目录</a>
+      <a href="#/timeline">思想史时间轴</a>
+      <a href="#/about">体例与引文说明</a>
+      <a href="#/shelf">我的书签</a>
+    </nav>
+  </div>
+</footer>
+
+<!-- ============ 搜索层 ============ -->
+<div class="overlay" id="searchOverlay" role="dialog" aria-modal="true" aria-label="全站搜索">
+  <div class="search-box">
+    <div class="search-inp">
+      <svg width="20" height="20" style="color:var(--muted-2)"><use href="#i-search"/></svg>
+      <input id="searchInput" type="search" placeholder="搜索人物、理论、概念、原著、作品…" autocomplete="off" spellcheck="false">
+      <span class="k">ESC</span>
+    </div>
+    <div class="search-res" id="searchRes"></div>
+  </div>
+</div>
+
+<!-- ============ 灯箱 ============ -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="图示放大">
+  <div class="lb-inner" id="lbInner">
+    <button class="lb-close" id="lbClose" aria-label="关闭">✕</button>
+    <div id="lbBody"></div>
+    <div class="lb-cap" id="lbCap"></div>
+    <div class="lb-tools">
+      <button data-z="out">－</button>
+      <button data-z="reset">原始大小</button>
+      <button data-z="in">＋</button>
+    </div>
+  </div>
+</div>
+
+<script src="assets/js/svgs.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

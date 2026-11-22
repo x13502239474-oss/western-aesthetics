@@ -1,0 +1,151 @@
+{
+  "id": "m09",
+  "no": 9,
+  "title": "西方艺术哲学与经典作品赏析",
+  "latin": "Ars et Interpretatio",
+  "period": "通史 · 从公元前 5 世纪到 20 世纪",
+  "tagline": "把理论放回作品里：形式分析是美学的实验台",
+  "intro": "前八个模块讲的是「说法」，这个模块讲的是「东西」。每一讲选一件（组）作品，先做形式分析——构图、比例、笔触、材料、观看位置；再指出它对应哪一套美学理论，最后检验这套理论在作品面前是否够用。理论的可靠性，只有在具体作品上才看得出来。",
+  "lessons": [
+    {
+      "title": "希腊雕塑与古典美",
+      "subtitle": "《米洛斯的维纳斯》与《拉奥孔》：比例、动势与克制",
+      "summary": "以两件雕塑分析「古典美」的构成：对立式平衡（contrapposto）、理想化比例、以及《拉奥孔》在极端痛苦中保持的形体节制——后者正是温克尔曼「高贵的单纯与静穆的伟大」所指。",
+      "points": [
+        "对立式平衡与重心的视觉转移",
+        "理想化比例：测量、修正与「比真更真」",
+        "《拉奥孔》的肌肉张力与表情克制的张力",
+        "温克尔曼的论断及其被莱辛修正的部分"
+      ],
+      "concepts": ["c-classical-beauty", "c-contrapposto", "c-idealism"],
+      "people": ["p-winckelmann", "p-lessing"],
+      "artworks": ["a-venus-de-milo", "a-laocoon"]
+    },
+    {
+      "title": "帕特农神庙与古典柱式",
+      "subtitle": "视觉矫正、比例系统与建筑的政治",
+      "summary": "帕特农的「无一直线」是精心设计的视觉矫正；多立克与爱奥尼柱式的比例差异则承载着城邦的身份表达。建筑美学由此不只是装饰问题。",
+      "points": [
+        "卷杀（entasis）、收分与角部矛盾的处理",
+        "柱式的比例系统与「拟人化」的解释",
+        "雕塑程序与雅典帝国的政治修辞",
+        "古典建筑语汇在后世的反复挪用"
+      ],
+      "concepts": ["c-orders", "c-optical-correction", "c-classical-beauty"],
+      "people": ["p-ithynos", "p-vitruvius"],
+      "artworks": ["a-parthenon"]
+    },
+    {
+      "title": "文艺复兴绘画：透视与人文主义",
+      "subtitle": "拉斐尔《雅典学院》：一个观念的舞台",
+      "summary": "《雅典学院》用单点透视建构理性空间，用人物编排呈现哲学史的分野。它是「绘画作为科学」与「绘画作为思想」的双重宣言。",
+      "points": [
+        "单点透视的建构：灭点、视高与观者位置",
+        "人物分组与柏拉图／亚里士多德的手势对立",
+        "建筑背景的古典语汇与「理想神庙」",
+        "作品与文艺复兴「人的尊严」话语的关系"
+      ],
+      "concepts": ["c-perspective", "c-humanism", "c-historia"],
+      "people": ["p-raphael", "p-alberti", "p-bramante"],
+      "artworks": ["a-school-of-athens"]
+    },
+    {
+      "title": "巴洛克与崇高",
+      "subtitle": "贝尼尼《圣特蕾莎的沉迷》：光的剧场",
+      "summary": "贝尼尼把雕塑、建筑与光线合成一个整体剧场，用隐秘光源制造神圣的侵入感。这正是博克、康德所说「崇高」的经验原型之一：被压倒又被提升。",
+      "points": [
+        "整体艺术（bel composto）的跨媒介手法",
+        "隐蔽光源与戏剧性明暗",
+        "身体姿态的失重感与宗教狂喜的表现难题",
+        "巴洛克与崇高理论的错位：时代不同，经验结构相似"
+      ],
+      "concepts": ["c-sublime", "c-baroque", "c-bel-composto"],
+      "people": ["p-bernini", "p-burke", "p-kant"],
+      "artworks": ["a-santa-teresa"]
+    },
+    {
+      "title": "印象派与现代视觉经验",
+      "subtitle": "莫奈《印象·日出》与「瞬间」的美学",
+      "summary": "印象派放弃固有色与轮廓线，用并置笔触记录光的瞬时状态。它把审美对象从「物」转移到「观看事件」，与 19 世纪的感觉生理学同步。",
+      "points": [
+        "笔触的单位化与色彩的并置混合",
+        "外光写生与「瞬间」的时间结构",
+        "学院派批评的失败与「印象」一词的贬义起源",
+        "与现象学「知觉优先」的呼应"
+      ],
+      "concepts": ["c-impressionism", "c-perception", "c-moment"],
+      "people": ["p-monet", "p-merleau-ponty"],
+      "artworks": ["a-impression-sunrise"]
+    },
+    {
+      "title": "塞尚与立体主义",
+      "subtitle": "从《亚维农少女》到《格尔尼卡》：空间的解体与重组",
+      "summary": "塞尚把自然还原为几何体块，毕加索与布拉克则把多视点并置到同一画面。立体主义因此不是「画得不像」，而是重新定义绘画的空间合同。",
+      "points": [
+        "塞尚的「实现」（réalisation）与色块结构",
+        "多视点、面化与「同时性」的视觉主张",
+        "《格尔尼卡》的黑白灰与叙事政治",
+        "立体主义与形式主义批评的互相成就"
+      ],
+      "concepts": ["c-cubism", "c-multiple-viewpoint", "c-formalism"],
+      "people": ["p-cezanne", "p-picasso", "p-braque"],
+      "artworks": ["a-avignon", "a-guernica"]
+    },
+    {
+      "title": "抽象艺术与形式主义",
+      "subtitle": "康定斯基、蒙德里安与格林伯格的历史叙事",
+      "summary": "抽象艺术把绘画从再现任务中解放出来，形式主义则把它解释为「各门艺术纯化自身媒介」的必然结果。这一解释极具说服力，也遮蔽了大量历史偶然。",
+      "points": [
+        "康定斯基的「内在必然性」与通感",
+        "蒙德里安的风格派：直线、原色与宇宙秩序",
+        "格林伯格「现代主义绘画」的论证结构",
+        "对目的论叙事的当代反驳"
+      ],
+      "concepts": ["c-abstraction", "c-medium-specificity", "c-formalism"],
+      "people": ["p-kandinsky", "p-mondrian", "p-greenberg"],
+      "artworks": ["a-composition-vii", "a-broadway-boogie-woogie"]
+    },
+    {
+      "title": "古典音乐与浪漫主义美学",
+      "subtitle": "贝多芬《英雄》与瓦格纳的「总体艺术作品」",
+      "summary": "《英雄交响曲》的形式断裂与「标题性」暗示了音乐从形式自律走向表达；瓦格纳则以 Gesamtkunstwerk 试图重建艺术的共同体功能。",
+      "points": [
+        "奏鸣曲式的张力结构与「期待—延迟—解决」",
+        "《英雄》第一乐章的形式越界与时代政治",
+        "汉斯立克「音乐的内容就是乐音的运动形式」",
+        "瓦格纳的总体艺术作品与尼采的分裂"
+      ],
+      "concepts": ["c-absolute-music", "c-gesamtkunstwerk", "c-form-content"],
+      "people": ["p-beethoven", "p-wagner", "p-hanslick", "p-nietzsche"],
+      "artworks": ["a-heroica", "a-tristan"]
+    },
+    {
+      "title": "现代建筑与功能主义",
+      "subtitle": "包豪斯、密斯与「少即是多」",
+      "summary": "现代主义建筑以功能、材料与新工业技术为出发点，主张形式服从用途；「少即是多」既是美学宣言，也是技术与伦理主张——并在此后被后现代建筑反讽地解构。",
+      "points": [
+        "「形式追随功能」的来源与误读",
+        "密斯的钢与玻璃：结构暴露与空间连续",
+        "包豪斯的教学体系与「总体建筑」理想",
+        "后现代建筑的符号拼贴与对纯粹性的反驳"
+      ],
+      "concepts": ["c-functionalism", "c-less-is-more", "c-modernism"],
+      "people": ["p-mies", "p-gropius", "p-loos", "p-venturi"],
+      "artworks": ["a-barcelona-pavilion"]
+    },
+    {
+      "title": "电影与蒙太奇",
+      "subtitle": "爱森斯坦的冲突剪辑与巴赞的长镜头本体论",
+      "summary": "蒙太奇把意义交给镜头的碰撞，长镜头则把意义留给画面内的时空。两种主张背后是两套关于现实与观众的美学政治。",
+      "points": [
+        "库里肖夫效应与蒙太奇的意义生产",
+        "爱森斯坦「吸引力蒙太奇」与辩证剪辑",
+        "巴赞：长镜头、景深与「现实的含混性」",
+        "剪辑节奏如何塑造观众的时间经验"
+      ],
+      "concepts": ["c-montage", "c-long-take", "c-realism"],
+      "people": ["p-eisenstein", "p-bazin", "p-kuleshov"],
+      "artworks": ["a-battleship-potemkin"]
+    }
+  ]
+}

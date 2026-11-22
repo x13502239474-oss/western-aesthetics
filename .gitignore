@@ -1,0 +1,8 @@
+# 仅供本地核对引文用的原著全文（版权材料，不入公开仓库）
+content/refs/_hegel-quelle.txt
+# 临时脚本与中间产物
+tools/_*.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

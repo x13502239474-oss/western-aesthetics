@@ -1,0 +1,141 @@
+{
+  "id": "m04",
+  "no": 4,
+  "title": "17—18 世纪启蒙时期美学",
+  "latin": "Aetas Illuminationis",
+  "period": "约 1630 — 1780",
+  "tagline": "问题换了一个：不再是「美是什么」，而是「人如何感受美」",
+  "intro": "近代哲学把认识论放在第一位，美学随之从「美的形而上学」转为「趣味的批判」。理性主义用清晰分明来衡量美，经验主义用感官与情感来解释美，两条路线在博克与休谟处交汇，最后由鲍姆嘉通把这片领域命名为「美学」。这一模块是整个学科的诞生现场。",
+  "lessons": [
+    {
+      "title": "近代转向：趣味成为问题",
+      "subtitle": "从本体论到认识论，美学问题的重新设置",
+      "summary": "说明 17 世纪科学革命与主体性哲学如何把「美是什么」改写为「审美判断如何可能」，并交代这一转向的政治社会背景：公共批评空间的形成。",
+      "points": [
+        "本体论美学与认识论美学的分野",
+        "「趣味」（gusto, goût, taste）概念的兴起",
+        "沙龙、期刊与公共批评空间",
+        "新旧之争（Querelle des Anciens et des Modernes）的美学含义"
+      ],
+      "concepts": ["c-taste", "c-epistemic-turn", "c-querelle"],
+      "people": ["p-descartes", "p-perrault"]
+    },
+    {
+      "title": "笛卡尔与理性主义美学",
+      "subtitle": "清晰分明之外，还有「惊叹」",
+      "summary": "笛卡尔本人没有美学体系，但其真理标准与激情理论深刻影响了法国古典主义。他关于「惊叹」（admiration）的论述，意外地为崇高预留了位置。",
+      "points": [
+        "「清晰分明」作为知识标准如何波及艺术规范",
+        "《论灵魂的激情》：六种基本激情与惊叹的地位",
+        "理性主义美学的两难：美可证明吗",
+        "布瓦洛对笛卡尔式的继承与简化"
+      ],
+      "concepts": ["c-clarity", "c-passions", "c-admiration"],
+      "people": ["p-descartes", "p-boileau"]
+    },
+    {
+      "title": "布瓦洛与新古典主义",
+      "subtitle": "《诗的艺术》：理性、自然与规则的三角",
+      "summary": "布瓦洛把「理性」确立为文学的最高法庭，以「自然」为模仿对象，以三一律为技术保障。新古典主义因此成为西方第一个完整的规范性美学纲领。",
+      "points": [
+        "「爱理性」：判断的标准在常识而非天才",
+        "「自然」的双重含义：人性与得体",
+        "三一律的由来、理由与它被误解的程度",
+        "古今之争中布瓦洛的立场与退让"
+      ],
+      "concepts": ["c-classicism", "c-decorum", "c-three-unities", "c-rule"],
+      "people": ["p-boileau", "p-racine"]
+    },
+    {
+      "title": "英国经验主义：感觉论的地基",
+      "subtitle": "培根、霍布斯、洛克如何为美学准备工具",
+      "summary": "经验主义把知识的起源交给感觉，于是美不再是客观属性，而是对象在心灵中引起的观念。霍布斯的「想象」与洛克的「观念的联结」为此后趣味理论提供了解剖刀。",
+      "points": [
+        "培根：想象、理性、记忆的三分与诗的位置",
+        "霍布斯：感觉、想象与「审慎」的心理学",
+        "洛克：第一性质与第二性质之分的美学后果",
+        "观念的联结（association of ideas）与审美习惯"
+      ],
+      "concepts": ["c-empiricism", "c-association", "c-imagination", "c-secondary-quality"],
+      "people": ["p-bacon", "p-hobbes", "p-locke"]
+    },
+    {
+      "title": "夏夫兹博里与哈奇生：内在感官",
+      "subtitle": "为什么美与善能被「第六感」直接知觉",
+      "summary": "夏夫兹博里提出「内在感官」（moral sense）直接把握和谐与比例；哈奇生把它技术化为「审美感官」，并指出美感的无利害性与普遍性。这是康德之前的决定性准备。",
+      "points": [
+        "夏夫兹博里：宇宙和谐、无利害与「内在的眼睛」",
+        "哈奇生：《论美与德性观念的起源》的相对独立性命题",
+        "「多样性中的齐一」作为美的公式",
+        "内在感官说的困难：为何它不算循环论证"
+      ],
+      "concepts": ["c-inner-sense", "c-disinterestedness", "c-uniformity-amid-variety"],
+      "people": ["p-shaftesbury", "p-hutcheson"]
+    },
+    {
+      "title": "休谟：趣味的标准",
+      "subtitle": "「趣味无争辩」与普遍标准的艰难调和",
+      "summary": "休谟在《论趣味的标准》中承认情感的个人性，却主张通过「健全的感官」与「理想的批评家」达成共识。这篇短文是整个 18 世纪趣味讨论的枢纽。",
+      "points": [
+        "情感主义前提：美不是对象的性质",
+        "五种限制条件与「真正的评判者」",
+        "「趣味无争辩」的原意与常见误读",
+        "休谟方案遗留的问题：标准是描述还是规范"
+      ],
+      "concepts": ["c-taste", "c-standard-of-taste", "c-sentimentalism"],
+      "people": ["p-hume"]
+    },
+    {
+      "title": "博克：崇高与美的经验解剖",
+      "subtitle": "《关于崇高与美观念的起源的哲学探讨》",
+      "summary": "博克以生理—心理机制解释两大范畴：美源于「松弛愉悦」，崇高源于「自我保全的恐惧」。他作出关键断言：崇高与美不是程度的差别，而是种类的对立。",
+      "points": [
+        "美的社会性质：爱、柔弱、渐进与光滑",
+        "崇高的来源：晦暗、力量、巨大、无限、突然",
+        "「 delight 」与「pleasure」的严格区分",
+        "博克与康德的关系：被继承与被反驳的部分"
+      ],
+      "concepts": ["c-sublime", "c-self-preservation", "c-delight"],
+      "people": ["p-burke", "p-kant"]
+    },
+    {
+      "title": "鲍姆嘉通：美学作为一门学科诞生",
+      "subtitle": "1750 年，《美学》与「感性认识的科学」",
+      "summary": "鲍姆嘉通把莱布尼茨—沃尔夫体系中的「感性认识」独立出来，命名为 aesthetica，并主张它有自己的完善性。美学从此有了名字、对象与合法性论证。",
+      "points": [
+        "「可感知物的科学」与「感性认识的科学」两种译解",
+        "美的定义：感性认识的完善（perfectio cognitionis sensitivae）",
+        "美学在沃尔夫体系中的位置：低级认识能力的正当化",
+        "命名的功与过：黑格尔为何嫌它肤浅"
+      ],
+      "concepts": ["c-aesthetica", "c-sensible-cognition", "c-perfection"],
+      "people": ["p-baumgarten", "p-wolff", "p-hegel"]
+    },
+    {
+      "title": "维柯：诗性智慧与「真理即创造」",
+      "subtitle": "《新科学》对理性主义美学的反向一击",
+      "summary": "维柯主张原始人用诗性而非概念思维把握世界，「真理即创造」（verum factum）为艺术认识提供了独立合法性。他是历史主义美学的远祖。",
+      "points": [
+        "诗性智慧：以己度物的隐喻思维",
+        "「真理即创造」与知识的可及性",
+        "历史循环（corsi e ricorsi）与审美形态的变迁",
+        "维柯对赫尔德、黑格尔与浪漫主义的影响"
+      ],
+      "concepts": ["c-poetic-wisdom", "c-verum-factum", "c-historicism"],
+      "people": ["p-vico", "p-herder"]
+    },
+    {
+      "title": "狄德罗：美在关系",
+      "subtitle": "《百科全书》派的美学与市民剧的实践",
+      "summary": "狄德罗提出「美在关系」，把美从绝对属性改造为对象内部及对象与人的关系；同时以市民剧与沙龙批评推动艺术走向现实生活。",
+      "points": [
+        "「美在关系」的三种关系：实在、见出、虚构",
+        "《论戏剧诗》与市民剧（drame bourgeois）的伦理野心",
+        "《沙龙》与艺术批评的诞生",
+        "狄德罗的唯物主义如何避免相对主义"
+      ],
+      "concepts": ["c-relation", "c-bourgeois-drama", "c-art-criticism"],
+      "people": ["p-diderot"]
+    }
+  ]
+}
